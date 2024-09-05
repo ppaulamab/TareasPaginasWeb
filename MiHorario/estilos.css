@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.tabla1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28 px;
+}
+.tabla1 td{
+    border: 2px solid black;
+}
+.inicio{
+    background-color: rgb(159, 240, 179);
+    color: rgb(138, 128, 109);
+}
+.logica{
+    background-color: rgb(196, 147, 241);
+}
+.programacion{
+    background-color: rgb(231, 157, 182);
+}
+.admin{
+    background-color: rgb(233, 233, 82);
+}
+.laboratorio{
+    background-color: rgb(171, 245, 111);
+}
+.vacio{
+    background-color: rgb(148, 194, 231);
+}
+.profesores{
+    background-color: rgb(252, 153, 87);
+}
+.grupo{
+    background-color: rgb(248, 123, 123);
+}
