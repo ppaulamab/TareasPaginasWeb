@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(184, 247, 252);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5em;
+}
+.fondoBlanco{
+    background-color: rgb(231, 231, 196);
+}
+.fondoAzul{
+    background-color: rgb(243, 168, 243);
+    color: rgb(213, 180, 245);
+}
+.fondoNegro{
+    background-color: rgb(238, 238, 67);
+}
+.imagen{
+    width: 150px;
+}
+.texto1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(134, 233, 109);
+}
+.texto2{
+    font-size: 1em;
+    color: rgb(235, 175, 65);
+    background-color: rgb(255, 174, 188);
+    text-align: justify;
+}
+.separacion{
+    padding: 1em;
+}
+.texto3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.borde{
+    border: 10px solid rgb(248, 190, 140);
+    border-radius: 10px;
+}
+.texto4{
+    text-align: center;
+    background-color: rgb(188, 171, 248);
+    color: rgb(176, 248, 227);
+    font-size: 20px;
+}
+.bordecito{
+    border: 2px solid rgb(53, 53, 53);
+    border-radius: 5px;
+}
+.bordecito1{
+    border: 2px solid rgb(247, 136, 136);
+    border-radius: 5px;
+}
+li{
+    margin-top: 10px;
+}
